@@ -19,4 +19,4 @@ while True:
 		break
 	print(data.decode('utf-8'))
 
-tcp_cli_sock.close()
+
